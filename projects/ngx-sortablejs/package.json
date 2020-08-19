@@ -1,5 +1,6 @@
 {
-  "name": "ngx-sortablejs",
+  "name": "@andrei-nz/ngx-sortablejs",
+  "version": "10.0.2",
   "keywords": [
     "ngx-sortablejs",
     "angular-sortablejs",
@@ -18,8 +19,8 @@
     "access": "public"
   },
   "peerDependencies": {
-    "@angular/common": "^8.0.0",
-    "@angular/core": "^8.0.0",
-    "sortablejs": ">=1.7.0"
+    "@angular/common": "^10.0.11",
+    "@angular/core": "^10.0.11",
+    "sortablejs": "^1.10.2"
   }
 }
